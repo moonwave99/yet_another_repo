@@ -8,4 +8,6 @@ some other line
 
 change by Martin
 
-change by Diego blabla
+change by Diego
+
+another change
